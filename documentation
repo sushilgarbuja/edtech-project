@@ -1,3 +1,4 @@
+day 4
 npm init
 npm init -y
 
@@ -5,3 +6,23 @@ npm init -y
 2009
 NodeJs-> jadu ko vhada (environment) jasma tapai ko js lai chai extra power aucha 
 js(cat)->nodejs-js(bagh)
+
+
+app.js = yo main file ho hai
+
+npm website bat sabai khojera install garne
+
+npm install express
+
+day 5
+
+aba install vako express lai app.js ma require garne
+"start": "node --watch app.js"
+arko vaneko 
+[::1]=vannu 127.0.0.1
+
+
+Day 6
+frontend ra backend chutta chuttai garda security ramro huncha
+
+befaida ma chai: configuration chutta chuttai garna paryo
